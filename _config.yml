@@ -1,4 +1,4 @@
-title: "RengTech"
+title: "Mini-PC"
 email: rengtech2020@gmail.com
 timezone: UTC
 baseurl: ""
@@ -20,18 +20,18 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: G-NHQ6Q8MQ3S
+ganalytics: G-TK65DCSTKN
 
 # Authors
 authors:
   sal:
-    name: Rengtech
-    display_name: Rengtech
+    name: Mini-PC
+    display_name: Mini-PC
     avatar: 'assets/images/Rengtech.png'
     email: wowthemesnet@gmail.com
     web: https://rengtech.github.io
     twitter: https://twitter.com/Reengstuff
-    description: "RengTech Youtube Channel"
+    description: "Mini-PC"
   john:
     name: Rengtech
     display_name: Rengtech
@@ -39,7 +39,7 @@ authors:
     email: wowthemesnet@gmail.com
     web: https://rengtech.github.io
     twitter: https://twitter.com/Reengstuff
-    description: "RengTech Youtube Channel"
+    description: "Mini-PC"
 
 # Social
 social:
