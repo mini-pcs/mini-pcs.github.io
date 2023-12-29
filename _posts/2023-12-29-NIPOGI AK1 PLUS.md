@@ -3,7 +3,7 @@ layout: post
 title:  "NiPoGi AK1 Plus: El mini PC que te sorprenderá"
 author: Mini-PC
 categories: [ Mini-PC, NiPoGi ]
-image: assets/images/nigoki_ak1_plus.png.png
+image: assets/images/nigoki_ak1_plus.png
 ---
 # Nipogi Mini PC Review - The Ultimate Compact Powerhouse
 
