@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NiPoGi AK1 Plus: El mini PC que te sorprenderá"
+title:  "NiPoGi AK1 Plus: The mini PC that will surprise you"
 author: Mini-PC
 categories: [ Mini-PC, NiPoGi ]
 image: assets/images/nigoki_ak1_plus.png
