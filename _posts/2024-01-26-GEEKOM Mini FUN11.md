@@ -36,7 +36,6 @@ In summary, the Geekcom Fun 11 Mini PC is the perfect combination of power, perf
 
 
 
-
 ### How good are Geekcom Mini PCs?
 
 Geekcom Mini PCs stand out for their exceptional performance and compact design. With features like support for full-size GPUs, powerful Intel processors like the i9 11900KB, and ample DDR4 RAM, Geekcom Mini PCs offer impressive power in a small package. The inclusion of features like Wi-Fi 6, Bluetooth 5.2, and support for multiple storage options further enhances their appeal. Overall, Geekcom Mini PCs are well-regarded for their performance and versatility, making them a great choice for gaming, productivity, and multimedia tasks. [Buy on Amazon](https://amzn.to/3ShvdPg)
