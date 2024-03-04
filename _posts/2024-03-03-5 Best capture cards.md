@@ -2,8 +2,8 @@
 layout: post
 title:  "Discover the Best Video Capture Cards of 2023: Elevate Your Content to the Next Level"
 author: Mini-PC
-categories: [ Blueetooth speakers]
-image: assets/images/speakers.png
+categories: [ Capture Cards]
+image: assets/images/capture_card.png
 ---
 
 Hey there, fellow streaming and gaming enthusiasts! 🎮 Are you ready to take your content to the next level? In this post, we're diving into the exciting world of video capture cards and uncovering the best options that 2023 has to offer.
