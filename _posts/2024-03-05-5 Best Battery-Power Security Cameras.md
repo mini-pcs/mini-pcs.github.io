@@ -8,6 +8,16 @@ image: assets/images/Arlo_Ultra_2.png
 
 Are you always on the move but wish you could keep an eye on your beloved pets or monitor your home from afar? Look no further! Introducing the top 5 wired-free security cameras of 2023 that bring peace of mind and convenience to your fingertips.
 
+| Security Camera      | Resolution    | Battery Life | Special Features                               |
+|----------------------|---------------|--------------|-----------------------------------------------|
+| Ring Stick Up Cam    | 1080p HD      | Up to 24 hrs | Color night vision, customizable motion zones |
+| Arlo Essential XL    | 1080p         | Up to 1 year | Night vision, built-in spotlight, microSD slot|
+| Anchor Uficam 2      | 1080p         | Months       | IP67 rating, long-lasting battery             |
+| Nest Cam Battery     | 1080p HDR     | Up to 6 months| Intelligent alerts, two-way talk              |
+| Arlo Ultra 2         | 4K            | Up to 6 months| HDR support, 2.4GHz & 5GHz Wi-Fi bands        |
+
+
+
 ## 1. Ring Stick Up Cam
 <img src="https://m.media-amazon.com/images/I/41EMzkDF2KL._SL1000_.jpg" alt="Music Speaker" width="400" height="300">
 
@@ -38,11 +48,4 @@ Upgrade your home security today with one of these top-notch wired-free security
 
 Are you always on the move but wish you could keep an eye on your beloved pets or monitor your home from afar? Look no further! Introducing the top 5 wired-free security cameras of 2023 that bring peace of mind and convenience to your fingertips.
 
-| Security Camera      | Resolution    | Battery Life | Special Features                               |
-|----------------------|---------------|--------------|-----------------------------------------------|
-| Ring Stick Up Cam    | 1080p HD      | Up to 24 hrs | Color night vision, customizable motion zones |
-| Arlo Essential XL    | 1080p         | Up to 1 year | Night vision, built-in spotlight, microSD slot|
-| Anchor Uficam 2      | 1080p         | Months       | IP67 rating, long-lasting battery             |
-| Nest Cam Battery     | 1080p HDR     | Up to 6 months| Intelligent alerts, two-way talk              |
-| Arlo Ultra 2         | 4K            | Up to 6 months| HDR support, 2.4GHz & 5GHz Wi-Fi bands        |
 
