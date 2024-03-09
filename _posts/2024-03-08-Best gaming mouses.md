@@ -2,8 +2,8 @@
 layout: post
 title:  "The Top 5 Best Gaming Mice: Find Your Perfect Gaming Companion"
 author: Mini-PC
-categories: [ Handheld]
-image: assets/images/RG353M.png
+categories: [ Mouse]
+image: assets/images/Logitech_G502_X.png
 ---
 
 
