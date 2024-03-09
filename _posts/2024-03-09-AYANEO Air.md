@@ -53,6 +53,6 @@ Let's delve into the technical details that make the AYANEO Air a powerhouse of 
 
 ## Experience the AYANEO Air Today!
 
-In summary, the AYANEO Air is not just a device, it's a gateway to a world of endless possibilities. Whether you're at home, on the go, or exploring new virtual worlds, this device is ready to accompany you every step of the way.
+In summary, the AYANEO Air is not just a device, it's a gateway to a world of endless possibilities. Whether you're at home, on the go, or exploring new virtual worlds, this device is ready to accompany you every step of the way. [Buy on Amazon](https://amzn.to/4a0Rjge)
 
-So, what ar
+
