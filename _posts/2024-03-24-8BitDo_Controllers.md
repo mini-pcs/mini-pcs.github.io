@@ -1,10 +1,10 @@
 ---
-    layout: post
-    title:  "8BitDo Controllers: Feel the Nostalgia of Gaming!"
-    author: Mini-PC
-    categories: [ Mini pc]
-    image: assets/images/8BitDo_Controllers.png
-    --- 
+layout: post
+title:  "8BitDo Controllers: Feel the Nostalgia of Gaming!"
+author: Mini-PC
+categories: [ Mini pc]
+image: assets/images/8BitDo_Controllers.png
+--- 
 
 **Are you a veteran gamer who longs for the glory days of classic gaming? Or maybe you're a new gamer looking for a more authentic gaming experience? Either way, you need an 8BitDo controller!**
 
