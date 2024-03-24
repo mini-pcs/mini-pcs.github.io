@@ -26,3 +26,11 @@ image: assets/images/8BitDo_Controllers.png
 * **Compatibility with a wide variety of platforms**
 
 **What are you waiting for? Enter the world of 8BitDo and discover a new way to play!** [Buy on Amazon](https://amzn.to/3TvYrur)
+
+### FAQs: 8BitDo Controllers
+
+#### Is the 8BitDo controller worth it?
+The worth of an 8BitDo controller depends on your gaming preferences and needs. 8BitDo controllers are renowned for their retro-inspired designs, compatibility with various platforms, and customizable features. If you enjoy retro gaming or need a versatile controller for multiple devices, an 8BitDo controller could be a worthwhile investment.
+
+#### Do 8BitDo controllers last?
+8BitDo controllers are generally built with quality materials and construction, designed to withstand regular use. However, like any electronic device, longevity can vary depending on usage patterns and care. With proper maintenance and handling, 8BitDo contro
