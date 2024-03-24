@@ -3,7 +3,7 @@ layout: post
 title:  "Discover the Best Microphones for Your Live Streams"
 author: Mini-PC
 categories: [ Mini pc]
-image: assets/images/5_smartwaches.png
+image: assets/images/5best_microphones.png
 ---
 
 Do you want your voice to sound like a pro during your live streams? Look no further! In this article, we present you with a selection of the best streaming microphones of 2022 that will leave you speechless!
