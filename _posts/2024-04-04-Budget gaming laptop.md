@@ -17,7 +17,7 @@ Imagine getting high-quality gaming performance without emptying your wallet. Wi
 For Intel enthusiasts, the MSI Sword 15 is an unbeatable choice. With options for Intel Core i5 or i7 CPUs and Nvidia G4 RTX 3050 graphics, this laptop takes your performance to new heights without leaving your wallet trembling. Its high refresh rate screen and Full HD resolution ensure a smooth and detailed gaming experience. [Buy on Amazon](https://amzn.to/4alJSkt)
 
 ## 3. ASUS ROG Flow X13: Versatility at Its Finest
-<img src="https://m.media-amazon.com/images/I/61YZnYlPi+L._AC_SL1500_.jpg" alt="Music Speaker" width="400" height="300">. 
+<img src="https://m.media-amazon.com/images/I/61+jIAHEdZL._AC_SL1280_.jpg" alt="Music Speaker" width="400" height="300">. 
 Want a gaming laptop that's also perfect for work and productivity? The ASUS ROG Flow X13 is the answer. With a powerful Ryzen 9 5900HS, a crisp 1200p display, and the option to connect a ROG XG Mobile to further boost performance, this laptop is truly versatile and powerful. [Buy on Amazon](https://amzn.to/3ILkl7U)
 
 ## 4. ASR Nitro 5: The Crowd Favorite
