@@ -3,7 +3,7 @@ layout: post
 title:  "Discover the Best Wireless Gaming Headsets of 2022 🎧💥"
 author: Mini-PC
 categories: [ Mini pc]
-image: assets/images/Powkiddy_RGB30.png
+image: assets/images/HyperX_Cloud_Alph.png
 --- 
 
 Are you a passionate gamer looking for the ultimate wireless freedom in your gaming experience? Look no further! In this post, we'll dive into the top-rated wireless gaming headsets that deliver outstanding audio quality without the hassle of wires, based on evaluations from 2022.
