@@ -3,7 +3,7 @@ layout: post
 title:  "🎧 Top Wireless Running Headphones of 2024"
 author: Mini-PC
 categories: [ Mini pc]
-image: assets/images/Beelink_U59_Pro.png
+image: assets/images/running_headphone.png
 --- 
 
 Unleash your runs with the latest in wireless headphone technology! Say goodbye to tangled wires and hello to freedom with these top picks designed specifically for runners.
