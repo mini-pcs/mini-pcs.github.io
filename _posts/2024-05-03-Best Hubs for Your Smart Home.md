@@ -3,7 +3,7 @@ layout: post
 title:  "Discover the Best Hubs for Your Smart Home in 2024 🏡💡"
 author: Mini-PC
 categories: [ Mini pc]
-image: assets/images/Ace_Magicians_T8_Plus.png
+image: assets/images/Best_Hubs_Home.png
 --- 
 
 
