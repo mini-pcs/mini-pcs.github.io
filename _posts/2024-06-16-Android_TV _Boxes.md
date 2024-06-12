@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Ultimate Guide to Android TV Boxes: A Top 5 Review** 📺"
+title:  "The Ultimate Guide to Android TV Boxes: A Top 5 Review 📺"
 author: Mini-PC
 categories: [ Mini pc]
 image: assets/images/NVIDIA SHIELD.png
