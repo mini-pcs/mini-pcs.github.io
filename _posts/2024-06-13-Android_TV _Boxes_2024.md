@@ -3,7 +3,7 @@ layout: post
 title:  "The Ultimate Guide to Android TV Boxes: A Top 5 Review 📺"
 author: Mini-PC
 categories: [ Mini pc]
-image: assets/images/NVIDIA SHIELD.png
+image: assets/images/NVIDIA_SHIELD.png
 --- 
 
 In this post, we'll be diving into the world of Android TV boxes and exploring the top 5 options that will take your streaming experience to the next level. From budget-friendly devices to powerhouse gaming machines, we've got you covered! 🔥
