@@ -6,7 +6,7 @@ categories: [ Mini-PC, NiPoGi ]
 image: assets/images/kamui_am06.png
 ---
 
-Looking for power in a compact space? Look no further! The KAMRUI Mini PC AM06 Pro is a technological marvel that fits in the palm of your hand and delivers impressive performance. What makes this device so special? Let's dive into its features and explore together![Buy on Amazon](https://amzn.to/41IO9ee)
+Looking for power in a compact space? Look no further! The KAMRUI Mini PC AM06 Pro is a technological marvel that fits in the palm of your hand and delivers impressive performance. What makes this device so special? Let's dive into its features and explore together![Buy on Amazon](https://geni.us/RA0r)
 
 **Unstoppable Performance**
 Equipped with an AMD Ryzen 5 5500U processor and 16GB of DDR4 RAM (expandable up to 32GB), this mini PC defies expectations. Run your favorite applications seamlessly without sacrificing speed!
@@ -50,7 +50,7 @@ Conveniently placed connectors, sleek design, and mountability—the AM06 Pro is
 
 In summary, the KAMRUI Mini PC AM06 Pro is a versatile and affordable solution for those seeking a compact yet powerful device. From daily tasks to occasional gaming sessions, this little giant has a lot to offer.
 
-Ready to give compact performance a shot? Don't hesitate to learn more about the KAMRUI Mini PC AM06 Pro and join the technological revolution![Buy on Amazon](https://amzn.to/41IO9ee)
+Ready to give compact performance a shot? Don't hesitate to learn more about the KAMRUI Mini PC AM06 Pro and join the technological revolution![Buy on Amazon](https://geni.us/RA0r)
 
 
 

@@ -9,7 +9,7 @@ image: assets/images/UM690S.png
 Hey everyone! 👋 Mini-PCs back again to introduce you to the latest gem in the mini PC world: Minus Forum's UM690S. 🌟 In this post, we'll unravel the secrets of this little wonder and see how it has evolved through some updates and tests I've conducted.
 
 ## ⚙️ Miniature Power
-The UM690S is the star of Minus Forum's Venus series, bringing some fascinating upgrades. The most exciting? Its new cooling system! If you're familiar with Minus Forum's mini PCs, you know they're known for having the best coolers for Ryzen APUs. With this new system, lower temperatures are expected even at high voltages. [Buy on Amazon](https://amzn.to/3HqxvGR)
+The UM690S is the star of Minus Forum's Venus series, bringing some fascinating upgrades. The most exciting? Its new cooling system! If you're familiar with Minus Forum's mini PCs, you know they're known for having the best coolers for Ryzen APUs. With this new system, lower temperatures are expected even at high voltages. [Buy on Amazon](https://geni.us/AvIqJ2)
 
 ## 📦 What You Get
 Opening the box, you'll find more than just the UM690S. A 120-watt power supply, HDMI cable, a mounting bracket, and hardware to place it wherever you want! This mini PC also supports a 2.5-inch drive, giving you additional storage options.
@@ -39,4 +39,4 @@ Don't miss out on the excitement of overclocking! Although not recommended by Mi
 If you want to learn more about the UM690S, I've left some links in the description. And let me know in the comments if you want to see it running Steam OS or any other Linux distro!
 
 ## 👋 Until Next Time
-And that's it! Thanks for joining this exciting adventure with the UM690S. If you enjoyed this post, feel free to give it a like and share! Until next time, tech explorers! 🚀🎮 [Buy on Amazon](https://amzn.to/3HqxvGR)
+And that's it! Thanks for joining this exciting adventure with the UM690S. If you enjoyed this post, feel free to give it a like and share! Until next time, tech explorers! 🚀🎮 [Buy on Amazon](https://geni.us/AvIqJ2)

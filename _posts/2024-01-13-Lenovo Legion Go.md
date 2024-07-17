@@ -48,7 +48,7 @@ Imagine holding a true masterpiece of ergonomic design. With an 8-inch Pure Sigh
 But wait, FPS Mode on a portable console? I initially thought it was a gimmick, but after trying it, I was hooked. It transforms the right control into a mouse for a more traditional gaming experience at your desktop. A unique option that could change how you experience your favorite shooting games.
 
 🚀 **Powerful Performance:**
-Under the hood, the Legion Go houses the powerful AMD Ryzen Z1 Extreme APU. With 8 cores, 16 threads, and a clock speed of up to 5.1 GHz, this machine is ready to challenge your expectations. Additionally, the fast 7500 mega transfers per second RAM makes a noticeable difference in performance. [Buy on Amazon](https://amzn.to/3O1vd4T)
+Under the hood, the Legion Go houses the powerful AMD Ryzen Z1 Extreme APU. With 8 cores, 16 threads, and a clock speed of up to 5.1 GHz, this machine is ready to challenge your expectations. Additionally, the fast 7500 mega transfers per second RAM makes a noticeable difference in performance. [Buy on Amazon](https://geni.us/9gqnR)
 
 🎮 **Gaming on Another Level:**
 To bring the gaming experience to life, we tested titles like Forza Horizon 5 and Cyberpunk 2077. The rear linear triggers provide precise control in racing games, while the overall performance ensures smooth and immersive gameplay.
@@ -73,7 +73,7 @@ The Legion Space interface is the icing on the cake. From quick settings to deta
 The Legion Go is not just a portable console; it's a revolutionary gaming experience. If you're looking for power, innovation, and comfort in one package, this device could be your new best friend!
 
 **Want to know more?**
-Stay tuned to this space, as ETA Prime promises more content after the official launch. Do you have questions or specific requests? Leave them in the comments, and we'll consider them in our future reviews. [Buy on Amazon](https://amzn.to/3O1vd4T)
+Stay tuned to this space, as ETA Prime promises more content after the official launch. Do you have questions or specific requests? Leave them in the comments, and we'll consider them in our future reviews. [Buy on Amazon](https://geni.us/9gqnR)
 
 Get ready to discover a new dimension in gaming with the Lenovo Legion Go!
 

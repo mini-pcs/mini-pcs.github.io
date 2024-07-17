@@ -27,7 +27,7 @@ image: assets/images/MeLE.png
 | Fanless Design     | Yes                    |
 | Upgradeable        | SSD, SD card slot      |
 
-## What sets this small giant apart? Its aluminum design is as sturdy as it is elegant, surpassing other plastic mini PCs and offering a premium feel from the get-go. And yes, it can connect to 4K monitors while still fitting in your pocket! 🔥💼 [Buy on Amazon](https://amzn.to/3H3r2Sf)
+## What sets this small giant apart? Its aluminum design is as sturdy as it is elegant, surpassing other plastic mini PCs and offering a premium feel from the get-go. And yes, it can connect to 4K monitors while still fitting in your pocket! 🔥💼 [Buy on Amazon](https://geni.us/Cko0w2)
 
 ## But don't let its size fool you; this mini PC proves its worth. From swift web browsing to handling office tasks with ease, it's a dependable companion for daily work. Image editing? No problem! While heavy gaming might pose a challenge, it shines with lighter titles or streaming games. 🎮💼
 
@@ -37,7 +37,7 @@ image: assets/images/MeLE.png
 
 ## In summary, the Mealy Quieter 3Q is a versatile and powerful companion that lives up to its size. Perfect for daily use, work, and leisure without taking up much space. And the best part? It comes at an affordable price for everyone. 💰🌟
 
-## If you seek a mini PC that strikes an impressive balance between size, performance, and price, Mealy's Quieter 3Q deserves your attention. It's a small giant that makes a big difference.[Buy on Amazon](https://amzn.to/3H3r2Sf) 💪🌐
+## If you seek a mini PC that strikes an impressive balance between size, performance, and price, Mealy's Quieter 3Q deserves your attention. It's a small giant that makes a big difference.[Buy on Amazon](https://geni.us/Cko0w2) 💪🌐
 
 ## Have you tried a mini PC before? Share your experience with us! 🤓✨
 

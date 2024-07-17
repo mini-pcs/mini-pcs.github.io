@@ -10,7 +10,7 @@ image: assets/images/orange_pi5_pro.png
 
 Welcome, tech enthusiasts! Today, we're diving into the fascinating world of the Orange Pi 5 Pro – a true gem in the form of a single board computer!
 
-If you're a fan of powerful and compact gadgets, get ready to be thrilled. The Orange Pi 5 Pro is a miniature powerhouse, based on the impressive Rockchip RK3588 processor. Can you imagine having 32GB of RAM in such a compact device? It's an exciting prospect![Buy on Amazon](https://amzn.to/3Ryk8Je)
+If you're a fan of powerful and compact gadgets, get ready to be thrilled. The Orange Pi 5 Pro is a miniature powerhouse, based on the impressive Rockchip RK3588 processor. Can you imagine having 32GB of RAM in such a compact device? It's an exciting prospect![Buy on Amazon](https://geni.us/AsdVij)
 
 ## What Makes the Orange Pi 5 Pro Stand Out? 🍊
 
@@ -41,7 +41,7 @@ From playing your favorite games to enjoying 4K content, the Orange Pi 5 Pro doe
 
 ## Ready to Discover More? 🤓
 
-The Orange Pi 5 Pro offers a range of possibilities for creative projects. With its attractive price and wide array of features, it's an incredible option for developers, enthusiasts, and anyone seeking compact yet robust performance.[Buy on Amazon](https://amzn.to/3Ryk8Je)
+The Orange Pi 5 Pro offers a range of possibilities for creative projects. With its attractive price and wide array of features, it's an incredible option for developers, enthusiasts, and anyone seeking compact yet robust performance.[Buy on Amazon](https://geni.us/AsdVij)
 
 Share your thoughts on this powerful tech gadget in the comments! Are you eager to explore its capabilities or already have one in your arsenal? We'd love to hear it all!
 

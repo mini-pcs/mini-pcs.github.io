@@ -15,7 +15,7 @@ Picture a reliable travel companion, compact and capable of storing all your dig
 
 **Speed and Reliability: Why Choose It?**
 
-Though not as swift as an SSD, this hard drive offers reliability at an affordable price. At 5400 RPM, the transfer speed is more than adequate for your daily needs, and its robust design makes it resilient to the trials of constant use.[Buy on Amazon](https://amzn.to/48tVVeI)
+Though not as swift as an SSD, this hard drive offers reliability at an affordable price. At 5400 RPM, the transfer speed is more than adequate for your daily needs, and its robust design makes it resilient to the trials of constant use.[Buy on Amazon](https://geni.us/cvtQKC)
 
 
 **Limitless Portability: Fits in Your Palm!**
@@ -34,7 +34,7 @@ We can’t overlook the durability of this device. With its predecessor going st
 
 In summary, the Toshiba Canvio Basics 2TB is your passport to the world of secure, reliable, and portable storage. With it, you can take your digital world with you wherever you go, without worrying about data loss or running out of space.
 
-*Get ready for a limitless storage experience with the Toshiba Canvio Basics 2TB!*[Buy on Amazon](https://amzn.to/48tVVeI)
+*Get ready for a limitless storage experience with the Toshiba Canvio Basics 2TB!*[Buy on Amazon](https://geni.us/cvtQKC)
 
 
 
