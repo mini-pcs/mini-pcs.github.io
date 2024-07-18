@@ -26,7 +26,7 @@ The Apple AirPods Max boasts an understated stylish design with a ventilated hea
 
 ## The Ultimate Travel Companion
 
-The Bose Noise Canceling Headphones 700 is the best set of over-ear noise-canceling headphones from Bose. With superior noise cancellation and adjustability on a scale from 0 to 10, you'll find the perfect balance for your ears. The lightweight design and easy-to-use touch controls make these headphones perfect for long flights or daily commutes. [Buy on Amazon](https://amzn.to/4bq4GXu)
+The Bose Noise Canceling Headphones 700 is the best set of over-ear noise-canceling headphones from Bose. With superior noise cancellation and adjustability on a scale from 0 to 10, you'll find the perfect balance for your ears. The lightweight design and easy-to-use touch controls make these headphones perfect for long flights or daily commutes. [Buy on Amazon](https://geni.us/4JUUu)
 
 
 * **Price:** Premium (starts at $349)
@@ -54,4 +54,4 @@ The Sony WH1000XM5 has a completely new design that prioritizes comfort and styl
 | 2 | Bose Noise Canceling Headphones 700 | $349 | Up to 20 hours | Superior | Adjustability, lightweight design, touch controls |
 | 3 | Sony WH1000XM5 | $399 | Up to 20 hours | Industry-leading | Speak-to-Chat, Quick Attention Mode, auto-pause |
 
-🎵 Which one will you choose? Share your thoughts in the comments below! 👇 [Buy on Amazon](https://amzn.to/3O1vd4T) {'[DE]-Best Noise Cancelling Headphones 2024 [don’t buy one before watching this] (128kbit_AAC).txt'}
+🎵 Which one will you choose? Share your thoughts in the comments below! 👇 [Buy on Amazon](https://geni.us/zTmm) 

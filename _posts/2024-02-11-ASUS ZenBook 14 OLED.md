@@ -14,7 +14,7 @@ Imagine unboxing your new ASUS ZenBook 14 and encountering an OLED display that 
 
 **Power that Drives Your Creativity**
 
-Equipped with an Intel Core Ultra 5 125H processor and Intel ARC DX 12 Ultimate XE SS AV One graphics, the ASUS ZenBook 14 OLED is more than just a laptop, it's a creativity machine. From video editing to graphic design, you'll experience smooth and uninterrupted performance in every task. [Buy on Amazon](https://amzn.to/3HVCUpH)
+Equipped with an Intel Core Ultra 5 125H processor and Intel ARC DX 12 Ultimate XE SS AV One graphics, the ASUS ZenBook 14 OLED is more than just a laptop, it's a creativity machine. From video editing to graphic design, you'll experience smooth and uninterrupted performance in every task. [Buy on Amazon](https://geni.us/EkGNe)
 
 **Design that Dazzles, Mobility that Impresses**
 
@@ -47,7 +47,7 @@ With the ASUS ZenBook 14 OLED, customization is in your hands. From battery sett
 
 In summary, the ASUS ZenBook 14 OLED is much more than just a laptop, it's a masterpiece of innovation and performance. With its dazzling display, unparalleled power, and elegant design, this laptop is ready to take your computing experience to the next level.
 
-Are you ready to discover what the ASUS ZenBook 14 OLED can do for you? Don't wait any longer and join the portable revolution today! [Buy on Amazon](https://amzn.to/3HVCUpH)
+Are you ready to discover what the ASUS ZenBook 14 OLED can do for you? Don't wait any longer and join the portable revolution today! [Buy on Amazon](https://geni.us/EkGNe)
 
 *Remember to subscribe for more updates and exclusive content!*
 
