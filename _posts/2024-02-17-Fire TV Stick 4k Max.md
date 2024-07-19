@@ -21,7 +21,7 @@ image: assets/images/Amazon_Fire_TV_Stick_4K_Max.png
 
 ### Is it worth upgrading?
 
-If you have an older Fire TV Stick, the answer is a **resounding yes**. The 4K Max 2023 offers you a superior experience in every way. [Buy on Amazon](https://amzn.to/49fNuUz)
+If you have an older Fire TV Stick, the answer is a **resounding yes**. The 4K Max 2023 offers you a superior experience in every way. [Buy on Amazon](https://geni.us/PY367)
 
 
 **However, if you already have the first generation Fire TV Stick 4K Max, the decision is more difficult.** The performance improvement is not significant enough to justify the purchase, unless you prioritize Wi-Fi 6E or need more storage space.
@@ -31,7 +31,7 @@ If you have an older Fire TV Stick, the answer is a **resounding yes**. The 4K M
 The Amazon Fire TV Stick 4K Max (2023) is an excellent option for 4K streaming lovers, cloud gamers, and retro emulation fans. If you are looking for the best possible experience, this is your device.
 
 **Do you dare to try it?** 
-[Buy on Amazon](https://amzn.to/49fNuUz)
+[Buy on Amazon](https://geni.us/PY367)
 
 
 ### Specifications table:

@@ -16,7 +16,7 @@ Imagine holding in your hands the latest innovation in controllers: the GuliKit 
 
 2. **Customizable Experience:** Love playing in Xbox or PC style? With the GuliKit KKK3 Max, you can easily customize your gaming experience. From vibration modes to interchangeable buttons, these controllers are designed to adapt to your preferences.
 
-3. **Ergonomic Design:** With exceptionally designed D-pads and an ergonomic structure, the GuliKit KKK3 Max fits perfectly in your hands, providing comfort and control during hours of gameplay. [Buy on Amazon](https://amzn.to/3SEoaR5)
+3. **Ergonomic Design:** With exceptionally designed D-pads and an ergonomic structure, the GuliKit KKK3 Max fits perfectly in your hands, providing comfort and control during hours of gameplay. [Buy on Amazon](https://geni.us/IqcmIQ)
 
 **Why Choose the GuliKit KK3 Max?**
 
@@ -43,6 +43,6 @@ As an experienced gamer, I can confidently say that the GuliKit KK3 Max has elev
 
 If you're ready to take your gaming experience to the next level, don't hesitate to try out the Gillikit KKK3 Max. Get ready for a gaming experience like no other!
 
-Don't miss out on this opportunity to explore the future of gaming controllers! Click the link for more information and discover why the GuliKit KK3 Max is a must-have for any true gaming enthusiast. [Buy on Amazon](https://amzn.to/3SEoaR5)
+Don't miss out on this opportunity to explore the future of gaming controllers! Click the link for more information and discover why the GuliKit KK3 Max is a must-have for any true gaming enthusiast. [Buy on Amazon](https://geni.us/IqcmIQ)
 
 

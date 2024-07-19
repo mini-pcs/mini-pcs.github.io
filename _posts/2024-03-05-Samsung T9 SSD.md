@@ -12,7 +12,7 @@ Hey there, tech enthusiasts! Lon Sybing here, and I've got some exciting news to
 
 Now, what's all the buzz about, you ask? Well, let me spill the beans. The Samsung T9 SSD is the new kid on the block, ready to revolutionize your storage game. And guess what? I've got the inside scoop just for you.
 
-First things first, let's talk durability. The T9 isn't your average SSD. Nope, it's built like a tank! With its rugged design and shock-resistant rubber casing, this bad boy can handle whatever life throws its way. Say goodbye to worrying about accidental drops or bumps - the T9 has got you covered. [Buy on Amazon](https://amzn.to/49EevBg)
+First things first, let's talk durability. The T9 isn't your average SSD. Nope, it's built like a tank! With its rugged design and shock-resistant rubber casing, this bad boy can handle whatever life throws its way. Say goodbye to worrying about accidental drops or bumps - the T9 has got you covered. [Buy on Amazon](https://geni.us/wwzPhbT)
 
 ## Blazing Fast Speeds
 
@@ -28,7 +28,7 @@ And did I mention the software? Samsung Magician is your trusty sidekick, keepin
 
 ## Reliable Security
 
-But hey, let's keep it real. No product is without its quirks. During my tests, I noticed that the T9's random read and write performance didn't quite stack up against the competition. But hey, nobody's perfect, right? It's all about finding the perfect fit for your tech needs. [Buy on Amazon](https://amzn.to/49EevBg)
+But hey, let's keep it real. No product is without its quirks. During my tests, I noticed that the T9's random read and write performance didn't quite stack up against the competition. But hey, nobody's perfect, right? It's all about finding the perfect fit for your tech needs. [Buy on Amazon](https://geni.us/wwzPhbT)
 
 
 ## Specifications:
