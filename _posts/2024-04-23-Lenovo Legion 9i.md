@@ -8,9 +8,11 @@ image: assets/images/Lenovo_Yoga_9i.png
 
 Hey everyone, it's LensIbe, and today we're diving into the exciting world of the Lenovo Yoga Book 9i. Can you imagine a device that challenges the conventions of traditional laptops? Well, here it is!
 
+## Meet the Lenovo Yoga Book 9i
+
 Imagine opening your laptop and being greeted by two vibrant screens instead of the usual keyboard and touchpad. Sounds crazy, right? Well, that's how Lenovo is innovating in the tech world.
 
-## A World of Possibilities
+## Why the Yoga Book 9i Stands Out
 
 This is not your average laptop. The Yoga Book 9i is an engineering marvel that offers endless ways to use it. Are you a creator? You can write and draw on one screen while keeping your references on the other. Are you a multitasker? Imagine having two apps running simultaneously on separate screens!
 

@@ -8,11 +8,17 @@ image: assets/images/Lenovo_legion_5i.png
 
 If you're looking for a machine that can handle anything you throw at it, the Lenovo Legion Slim 7 is the answer. With its powerful Intel H series mobile CPU and the option to choose from different variants with various CPUs and GPUs, this laptop is a true gem for gaming enthusiasts.
 
+## Sleek and Powerful Design
+
 The sleek and compact design of the Legion Slim 7 makes it an ideal companion for both work and play. Its fully customizable RGB backlit keyboard, spacious trackpad, and stunning 16-inch IPS display with a resolution of 2560x1600 and support for HDR 400 Dolby Vision and Vitya G sync make every visual experience incredibly immersive.
 
 With a 99.9 Watt-hour battery and support for rapid charging, you'll never have to worry about running out of power in the middle of an epic gaming session. Plus, its Lenovo Legion Cold Front 5.0 cooling system ensures that performance remains optimal even during the most intense gaming sessions.
 
+## Long-lasting Battery and Efficient Cooling
+
 But the best part is its gaming performance. With the option to configure different power profiles and adjust TDP both in the CPU and GPU, you can get the maximum performance out of the Nvidia GeForce RTX 4060 and enjoy AAA games at high frame rates and stunning visual quality.
+
+## Unmatched Gaming Performance
 
 The Lenovo Legion Slim 7 is more than just a gaming laptop. It's a powerful tool that combines performance, design, and functionality to offer you a unique experience in every gaming session. Are you ready to elevate your gaming experience to the next level? Discover everything the Legion Slim 7 has to offer! [Buy on Amazon](https://amzn.to/3vTzvoU)
 
